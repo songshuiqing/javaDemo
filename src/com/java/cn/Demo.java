@@ -9,6 +9,8 @@ package com.java.cn;
 public class Demo {
     
 	public static void main(String[] args) {
-		System.out.println("Hello  aaa");
+
+		System.out.println("Hello World");
+
 	}
 }
