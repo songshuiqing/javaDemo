@@ -23,7 +23,7 @@ public class MapDemo {
 			System.out.println(str+"="+st);
 		}
 		
-		//entrySet只是遍历了一次就把 key和 value都放到了 entry中，效率更高
+		//entrySet只需遍历了一次就把 key和 value都放到了 entry中，效率更高
 		for (String str : map.keySet()) {
 			String st = map.get(str);
 			System.out.println("键="+str+"***"+"值="+st);
