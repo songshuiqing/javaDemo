@@ -5,7 +5,7 @@ package com.java.cn;
  *
  * @date 2019年4月3日 上午9:56:08
  */
-public class TestDemo {
+public class StringDemo {
     
 	public static void main(String[] args) {
 		
@@ -17,5 +17,4 @@ public class TestDemo {
 		System.out.println(c.equals(b));
 		System.out.println(c == b);
 	}
-	
 }
